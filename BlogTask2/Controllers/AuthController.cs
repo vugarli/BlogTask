@@ -16,12 +16,13 @@ namespace BlogTask2.Controllers
             _signInManager = signInManager;
         }
 
-
         public IActionResult Login(string? ReturnUrl)
         {
             TempData["ReturnUrl"]  = ReturnUrl;
+        //asdfasdfasdf
             return View();
         }
+
 
 
         [HttpPost()]
