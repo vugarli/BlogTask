@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlogTask2
 build_property.RootNamespace = BlogTask2
-build_property.ProjectDir = C:\Users\Birinci Novbe\Desktop\BlogTask2\BlogTask2\
+build_property.ProjectDir = C:\Users\Birinci Novbe\Desktop\task\BlogTask\BlogTask2\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Birinci Novbe\Desktop\BlogTask2\BlogTask2
+build_property.MSBuildProjectDirectory = C:\Users\Birinci Novbe\Desktop\task\BlogTask\BlogTask2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Areas/Admin/Views/Blogs/Create.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Areas/Admin/Views/Blogs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Areas/Admin/Views/Blogs/Index.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Areas/Admin/Views/Blogs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Areas/Admin/Views/Blogs/Update.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Areas/Admin/Views/Blogs/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ3NcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Areas/Admin/Views/Blogs/_PartialPaginatedBlogs.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Areas/Admin/Views/Blogs/_PartialPaginatedBlogs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ3NcX1BhcnRpYWxQYWdpbmF0ZWRCbG9ncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Views/Auth/Login.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Views/Auth/Register.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Views/Home/Index.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Views/Home/Privacy.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Views/Shared/Error.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Views/_ViewImports.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Views/_ViewStart.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cxl6edhdim
 
-[C:/Users/Birinci Novbe/Desktop/BlogTask2/BlogTask2/Views/Shared/_Layout.cshtml]
+[C:/Users/Birinci Novbe/Desktop/task/BlogTask/BlogTask2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xl1rffy4pc

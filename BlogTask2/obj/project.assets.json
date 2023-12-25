@@ -10828,11 +10828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Birinci Novbe\\Desktop\\BlogTask2\\BlogTask2\\BlogTask2.csproj",
+      "projectUniqueName": "C:\\Users\\Birinci Novbe\\Desktop\\task\\BlogTask\\BlogTask2\\BlogTask2.csproj",
       "projectName": "BlogTask2",
-      "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\BlogTask2\\BlogTask2\\BlogTask2.csproj",
+      "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\task\\BlogTask\\BlogTask2\\BlogTask2.csproj",
       "packagesPath": "C:\\Users\\Birinci Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Birinci Novbe\\Desktop\\BlogTask2\\BlogTask2\\obj\\",
+      "outputPath": "C:\\Users\\Birinci Novbe\\Desktop\\task\\BlogTask\\BlogTask2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Birinci Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
