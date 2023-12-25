@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jOFUxadBGeTeFVvmZIhy56Y65ALVyGBbSbFYt5W0Uss=",
+  "Hash": "z4d0pOtXtpvrrpilkqTOUxuwGAjJxXuWkoxPEj67wOc=",
   "Source": "BlogTask2",
   "BasePath": "_content/BlogTask2",
   "Mode": "Default",
@@ -1394,6 +1394,23 @@
       "OriginalItemSpec": "wwwroot\\blogimages\\2df8dff52b0a41b7ae74e47b7bacb734chad.PNG"
     },
     {
+      "Identity": "C:\\Users\\Birinci Novbe\\Desktop\\task\\BlogTask\\BlogTask2\\wwwroot\\blogimages\\4559b2b5e6e541febbb5f3cc3916edbf17a9213d-ab4a-4010-b8dc-ca49daaed8d8kianu.jpg",
+      "SourceId": "BlogTask2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Birinci Novbe\\Desktop\\task\\BlogTask\\BlogTask2\\wwwroot\\",
+      "BasePath": "_content/BlogTask2",
+      "RelativePath": "blogimages/4559b2b5e6e541febbb5f3cc3916edbf17a9213d-ab4a-4010-b8dc-ca49daaed8d8kianu.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blogimages\\4559b2b5e6e541febbb5f3cc3916edbf17a9213d-ab4a-4010-b8dc-ca49daaed8d8kianu.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Birinci Novbe\\Desktop\\task\\BlogTask\\BlogTask2\\wwwroot\\blogimages\\476fa795ed204460b8ac0ed9ade5d256chad.PNG",
       "SourceId": "BlogTask2",
       "SourceType": "Discovered",
@@ -1409,6 +1426,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\blogimages\\476fa795ed204460b8ac0ed9ade5d256chad.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\Birinci Novbe\\Desktop\\task\\BlogTask\\BlogTask2\\wwwroot\\blogimages\\9e43e46d7ef54753bdd2fbd6a765b3f28d6a20c1-5a3c-4ad7-a6d9-d1863dab3842bleydraner.jfif",
+      "SourceId": "BlogTask2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Birinci Novbe\\Desktop\\task\\BlogTask\\BlogTask2\\wwwroot\\",
+      "BasePath": "_content/BlogTask2",
+      "RelativePath": "blogimages/9e43e46d7ef54753bdd2fbd6a765b3f28d6a20c1-5a3c-4ad7-a6d9-d1863dab3842bleydraner.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blogimages\\9e43e46d7ef54753bdd2fbd6a765b3f28d6a20c1-5a3c-4ad7-a6d9-d1863dab3842bleydraner.jfif"
     },
     {
       "Identity": "C:\\Users\\Birinci Novbe\\Desktop\\task\\BlogTask\\BlogTask2\\wwwroot\\blogimages\\c0e14384d919499a80a13a6d3df0c88bchad.PNG",

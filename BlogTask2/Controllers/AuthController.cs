@@ -17,14 +17,15 @@ namespace BlogTask2.Controllers
         }
 
 
-        public IActionResult Login()
+        public IActionResult Login(string? ReturnUrl)
         {
+            TempData["ReturnUrl"]  = ReturnUrl;
             return View();
         }
 
 
-        [HttpPost("{ReturnUrl?}")]
-        public async Task<IActionResult> Login(LoginVM model,string? ReturnUrl)
+        [HttpPost()]
+        public async Task<IActionResult> Login(LoginVM model)
         {
             if(!ModelState.IsValid) return View(model);
 
@@ -36,9 +37,9 @@ namespace BlogTask2.Controllers
                 return View(model);
             }
 
-            if (ReturnUrl != null)
+            if (TempData["ReturnUrl"] != null)
             {
-                return LocalRedirect(ReturnUrl);
+                return LocalRedirect(TempData["ReturnUrl"].ToString());
             }
 
             return RedirectToAction("Index","Home");

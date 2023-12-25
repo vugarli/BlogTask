@@ -20,6 +20,7 @@
             { 
                 var newFile = File.Create(Path.Combine(folderPath, fileName));
                 await file.CopyToAsync(newFile);
+                newFile.Close();
             }
 
             return fileName;
