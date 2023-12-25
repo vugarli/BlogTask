@@ -1,0 +1,30 @@
+﻿@using BlogTask2.Areas.Admin.Models;
+@using BlogTask2.Entities;
+
+@model PagedEntityModel<IEnumerable<Blog>>
+
+    @section scripts
+    {
+    <script>
+        $("#tableWrapper").on("click", "li a"
+            , function (ev) {
+                ev.preventDefault();
+                let url = $(this).attr("href")
+                //alert(url)
+                fetch(url).then(a => a.text())
+                    .then(a => $("#tableWrapper").html(a))
+            })
+    </script>
+}
+<div style="padding:10px">
+
+
+	<a class="btn btn-success" asp-action="Create" >Create</a>
+
+
+	<div id="tableWrapper">
+
+	<partial name="_PartialPaginatedBlogs" />
+
+	</div>
+</div>
